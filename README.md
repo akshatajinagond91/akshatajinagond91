@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akshatajinagond59@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16GIlnA_SVClooe2HBG6Y_TYKE2dytiVQ/view?usp=sharing](https://drive.google.com/file/d/16GIlnA_SVClooe2HBG6Y_TYKE2dytiVQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FJTA6NNI9K0YckyyEtDh5o-Whp4tzyUa/view?usp=sharing](https://drive.google.com/file/d/1FJTA6NNI9K0YckyyEtDh5o-Whp4tzyUa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
