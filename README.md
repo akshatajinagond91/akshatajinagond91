@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshata Jinagond</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
+<a href="linkedin.com/in/akshata-jinagond"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatajinagond91&label=Profile%20views&color=0e75b6&style=flat" alt="akshatajinagond91" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatajinagond91" alt="akshatajinagond91" /></a> </p>
