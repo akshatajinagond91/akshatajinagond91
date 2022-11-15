@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshata Jinagond</h1>
 <h3 align="center">A passionate Java developer from India</h3>
+<p>A hardworking, sincere, and enthusiastic web learner
+fascinated by the world of web development. An individual with a problem-solving mindset, who likes building and crafting clean user-friendly apps. A full-stack developer with a strong desire to work in a product-based company.</p>
 
 
 
