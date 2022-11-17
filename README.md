@@ -11,7 +11,7 @@ fascinated by the world of web development. An individual with a problem-solving
 
 - 🌱 I’m currently learning **Java, MySQL, Spring Boot ,AWS**
 
-- 👨‍💻 All of my projects are available at [https://akshatajinagond91.github.io/#slide01](https://akshatajinagond91.github.io/#slide01)
+- 👨‍💻 All of my projects are available at [https://akshatajinagond91.github.io/](https://akshatajinagond91.github.io/)
 
 - 💬 Ask me about **CSS, HTML, JavaScript , Java, MySQL, Spring Boot**
 
